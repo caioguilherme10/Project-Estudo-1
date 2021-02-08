@@ -1,7 +1,7 @@
 Estudo incluir essas tecnologias
 
 - React
-- TypeScript
+- TypeScriptgit
 - GraphQL
 - URQL/Apollo
 - Node.js
